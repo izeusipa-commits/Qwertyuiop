@@ -1,1 +1,33 @@
-
+{
+  "name": "متجري الخاص",
+  "identifier": "com.mycustomstore.repo",
+  "sourceURL": "https://yourdomain.com/store.json",
+  "apps": [
+    {
+      "name": "تطبيق بلس الأول",
+      "bundleIdentifier": "com.example.app1",
+      "developerName": "اسم المطور",
+      "version": "1.0",
+      "versionDate": "2026-06-15T00:00:00-00:00",
+      "versionDescription": "تم إضافة ميزات جديدة",
+      "downloadURL": "https://yourdomain.com/apps/app1.ipa",
+      "localizedDescription": "وصف كامل للتطبيق وما يقدمه من ميزات...",
+      "iconURL": "https://yourdomain.com/icons/app1.png",
+      "tintColor": "#FF0000",
+      "size": 45000000
+    },
+    {
+      "name": "لعبة مهكرة",
+      "bundleIdentifier": "com.example.game",
+      "developerName": "اسم المطور",
+      "version": "2.5",
+      "versionDate": "2026-06-14T00:00:00-00:00",
+      "versionDescription": "تحديث جديد للعبة",
+      "downloadURL": "https://yourdomain.com/apps/game.ipa",
+      "localizedDescription": "وصف اللعبة...",
+      "iconURL": "https://yourdomain.com/icons/game.png",
+      "tintColor": "#00FF00",
+      "size": 120000000
+    }
+  ]
+}
